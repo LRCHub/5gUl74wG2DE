@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "DRIVE US CRAZY",
+  "base_artist": "RAISE A SUILEN",
+  "createdAt": "2025-12-21T01:59:03.403153Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DRIVE US CRAZY",
+      "artist": "RAISE A SUILEN",
+      "has_synced": true,
+      "path": "select/01_DRIVE_US_CRAZY_RAISE_A_SUILEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DRIVE US CRAZY",
+      "artist": "RAISE A SUILEN",
+      "has_synced": true,
+      "path": "select/02_DRIVE_US_CRAZY_RAISE_A_SUILEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DRIVE US CRAZY",
+      "artist": "RAISE A SUILEN",
+      "has_synced": false,
+      "path": "select/pl_01_DRIVE_US_CRAZY_RAISE_A_SUILEN.txt"
+    }
+  ]
+}
